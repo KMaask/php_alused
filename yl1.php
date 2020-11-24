@@ -1,6 +1,7 @@
 <?php
 /* 01 Kristi Maask 24.11.2020 */
 
+//muutujad
 $nimi = "Kaisa";
 $synniaasta = 1997;
 $tahtkuju = "Kalad";
